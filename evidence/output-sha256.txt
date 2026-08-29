@@ -1,0 +1,1 @@
+87e59d610a38f75834d18e1f9c87b0eeb45b7feeff488c3426e62be2faa9a8d6  gpt-oss-120b-IQ2_XXS.gguf

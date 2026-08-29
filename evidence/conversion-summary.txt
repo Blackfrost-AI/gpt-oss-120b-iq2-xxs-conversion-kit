@@ -1,0 +1,9 @@
+llama.cpp build: 10434 (7e4c0a968)
+compiler: GNU 13.3.0
+threads: 192
+source size: 60438.47 MiB (4.34 BPW)
+quant size: 63006.80 MiB (4.52 BPW)
+fallback tensors: 217 of 687
+quantize time: 418335.40 ms
+output bytes: 66080446048
+output SHA-256: 87e59d610a38f75834d18e1f9c87b0eeb45b7feeff488c3426e62be2faa9a8d6

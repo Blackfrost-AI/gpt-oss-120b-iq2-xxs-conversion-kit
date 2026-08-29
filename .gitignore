@@ -1,0 +1,13 @@
+.env
+work/
+logs/
+*.gguf
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.so
+*.cubin
+__pycache__/
+.venv/
